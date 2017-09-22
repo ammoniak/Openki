@@ -1,3 +1,4 @@
+import '/imports/Analytics.js';
 import Predicates from '/imports/utils/predicates.js';
 import Profile from '/imports/utils/profile.js';
 import LocalTime from '/imports/utils/local-time.js';
