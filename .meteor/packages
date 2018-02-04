@@ -40,14 +40,11 @@ es5-shim@4.7.0
 router-autoscroll
 meteorhacks:ssr
 standard-minifier-js@2.3.1
-fourseven:scss
-reywood:bootstrap3-sass
 lookback:tooltips
 seba:minifiers-autoprefixer
 gadicohen:robots-txt
 shell-server@0.3.1
 ecmascript@0.10.0
-practicalmeteor:mocha
 dferber:prerender
 wanglian:bootstrap3-datepicker
 meteortesting:mocha
@@ -58,3 +55,5 @@ dynamic-import@0.3.0
 kadira:dochead
 markdown@1.0.12
 simple:markdown-templating
+fourseven:scss
+reywood:bootstrap3-sass
